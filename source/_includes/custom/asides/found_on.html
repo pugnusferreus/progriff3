@@ -1,0 +1,24 @@
+<h2>found on</h2>
+
+<a href="http://pugnusferreus.github.io/" rel="tooltip" title="Github Pages"><img class="social_icon" title="Github Pages" alt="Github icon" src="{{ root_url }}/images/glyphicons_381_github.png"></a>
+
+<a href="https://soundcloud.com/benson-cs-lim" rel="tooltip" title="SoundCloud"><img class="social_icon" title="Google Plus" alt="SoundCloud icon" src="{{ root_url }}/images/glyphicons_017_music.png"></a>
+
+<a href="http://www.flickr.com/photos/95990368@N08/" rel="tooltip" title="Flickr"><img class="social_icon" title="Flickr" alt="Flickr icon" src="{{ root_url }}/images/glyphicons_415_flickr.png"></a>
+
+{% if site.twitter_user %}
+<a href="http://twitter.com/{{site.twitter_user}}" rel="tooltip" title="Twitter"><img class="social_icon" title="Twitter" alt="Twitter icon" src="{{ root_url }}/images/glyphicons_391_twitter_t.png"></a>
+{% endif %}
+
+{% if site.googleplus_user %}
+<a href="https://plus.google.com/{{site.googleplus_user}}?rel=author" rel="tooltip" title="Google Plus"><img class="social_icon" title="Google Plus" alt="Google Plus icon" src="{{ root_url }}/images/glyphicons_386_google_plus.png"></a>
+{% endif %}
+
+<a href="http://au.linkedin.com/in/bensoncslim" rel="tooltip" title="LinkedIn"><img class="social_icon" title="LinkedIn" alt="LinkedIn icon" src="{{ root_url }}/images/glyphicons_377_linked_in.png"></a>
+
+<a href="/atom.xml" rel="tooltip" title="RSS"><img class="social_icon" title="RSS" alt="RSS icon" src="{{ root_url }}/images/glyphicons_417_rss.png"></a>
+
+{% if site.email %}
+<h2>contact at</h2>
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+{% endif %}
