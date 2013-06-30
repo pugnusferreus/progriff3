@@ -15,6 +15,12 @@ You can listen to the song [here](https://soundcloud.com/benson-cs-lim/shine-no-
 And here are the lyrics:
 
 v1<br/>
+Felt the thirst at first,<br/>
+Not the kind I knew,<br/>
+You found me running dry,<br/>
+Lift me up so I could fly<br/>
+
+
 Let us sing to the Lord,<br/>
 Sing praise to his name,<br/>
 Come rejoice before him,<br/>
