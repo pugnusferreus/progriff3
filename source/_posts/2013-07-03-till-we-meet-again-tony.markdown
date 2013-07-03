@@ -12,7 +12,7 @@ we really shouldn't take things for granted. Cherish the people around you.
 
 Tony, you are a good man, a good father and a fighter. I'll always view you as a fighter that fights the worldly sins.
 No matter how bad this world is, you are always cheerful.
-I'm happy that you're now with our Father in Heaven and you will not be burdened with the worldly bondage anymore.
+I'm happy that you're now with our Father in Heaven and you will not be burdened by the worldly bondage anymore.
 
 Till we meet again Tony....
 
