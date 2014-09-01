@@ -13,7 +13,7 @@ Here are some apps that I've been using so far after a month using my iPad.
 
 ### Alien Blue Reddit Client
 
-<a href="https://itunes.apple.com/app/alien-blue-hd-reddit-client/id390863118?mt=8">Alien Blue</a> is a <a href="http://reddit.com">Reddit</a> client. Incase you do not know what Reddit is, Reddit is a social networking and news site where registered users can submit contents. Unlike Bacon Reader, I've felt that Alien Blue feels more light weight. Alien Blue only cost me AUD$3.99 which is the same price as a cup of coffee.
+<a href="https://itunes.apple.com/app/alien-blue-hd-reddit-client/id390863118?mt=8">Alien Blue</a> is a <a href="http://reddit.com">Reddit</a> client. Incase you do not know what Reddit is, Reddit is a social networking and news site where registered users can submit contents. Unlike Bacon Reader, I've felt that Alien Blue feels more light weight. Alien Blue only cost me USD$4.99 which is the same price as a cup of coffee.
 
 <img src="https://farm6.staticflickr.com/5562/14892866707_ed60850bbb_z_d.jpg" alt="alien blue reddit client"/>
 
